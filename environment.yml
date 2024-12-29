@@ -1,0 +1,7 @@
+name: hoopers
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+prefix: C:\Users\dcooke\AppData\Local\miniforge3\envs\hoopers
